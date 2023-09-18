@@ -10,4 +10,6 @@ export interface InfoPagina {
   twitter?: string;
   instagram?: string;
   equipo_trabajo?: any[];
+
+
 }

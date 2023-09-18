@@ -17,7 +17,6 @@ import { ServicioComponent } from './pages/servicio/servicio.component';
 import { ContactoComponent } from './pages/contacto/contacto.component';
 import { PerforacionComponent } from './pages/perforacion/perforacion.component';
 import { InspeccionComponent } from './pages/inspeccion/inspeccion.component';
-
 import { IngenieriaComponent } from './pages/ingenieria/ingenieria.component';
 import { NavegacionComponent } from './pages/navegacion/navegacion.component';
 import { DrillingComponent } from './pages/drilling/drilling.component';
@@ -29,6 +28,7 @@ import { MedicionComponent } from './pages/medicion/medicion.component';
     HeaderComponent,
     FooterComponent,
     IndustriaComponent,
+
 
     AboutComponent,
     ServicioComponent,
